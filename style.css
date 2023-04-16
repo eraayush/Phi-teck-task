@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+.bg-color {
+    background: #f6f0ec;
+    height: 100vh;
+}
+
+.margin-top30 {
+    margin-top: 30px;
+}
+
+.margin-top50 {
+    margin-top: 50px;
+}
+
+.margin-top60 {
+    margin-top: 60px;
+}
+
+.margin-right20 {
+    margin-right: 20px;
+}
+
+.margin-right15 {
+    margin-right: 15px;
+}
+
+.muted-text {
+    color: #888888;
+}
+
+.height62 {
+    height: 62px;
+}
+
+.width272 {
+    width: 272px;
+}
+
+.width103 {
+    width: 103px;
+}
+
+.width81 {
+    width: 81px;
+}
+
+.border-none {
+    border: none;
+}
+
+.bgWhite {
+    background: #FFFFFF;
+}
+
+.bordorRadius8 {
+    border-radius: 8px;
+}
+
+.bg-fFE6060 {
+    background: #FE6060;
+}
+
+.color-pink {
+    color: #FE6060;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-left {
+    margin-top: 134px;
+    margin-right: 69px;
+    width: 693px;
+    height: 511px;
+}
+
+.container-right {
+    margin-top: 80px;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 51px;
+}
+
+p {
+    width: 672px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* 140% */
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.dropdown {
+    font-size: 1rem;
+    margin-right: 10px;
+    padding-left: 6px;
+    border: 14px solid transparent !important;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 15px;
+}
+
+.input-location {
+    width: 476px;
+}
+
+.search-location {
+    position: relative;
+    margin-top: 10px;
+}
+
+.input_search {
+    padding-left: 20px;
+}
+
+.search-div {
+    position: absolute;
+    right: 222px;
+    top: 5px;
+}
+
+.search-btn {
+    width: 192.08px;
+    height: 52px;
+    padding: 16px, 25px, 16px, 26px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.circle {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+img {
+    width: 518px;
+    height: 686px;
+    border-radius: 20px 20px 0px 0px;
+}
